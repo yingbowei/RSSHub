@@ -2,7 +2,7 @@
 <img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
 </p>
 <h1 align="center">RSSHub</h1>
-a
+
 > 🍰 Everything is RSSible
 
 [![](https://img.shields.io/badge/dynamic/json?url=https://rsshub-analytics.diygod.workers.dev/&query=requests&color=F38020&label=requests&logo=cloudflare&style=flat-square&suffix=/month)](https://rsshub.app)
